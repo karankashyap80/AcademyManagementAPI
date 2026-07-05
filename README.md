@@ -83,7 +83,7 @@ appsettings.json
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpeg)
 
 ---
 
