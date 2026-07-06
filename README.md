@@ -77,37 +77,41 @@ AcademyManagementAPI
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
 ## Student List
 
-![Student List](student-list.png)
+![Student List](images/student-list.png)
 
 ---
 
+## Swagger UI
+
+![swagger UI](images/uiSwagger.png)
+
 ## Swagger - GET API
 
-![GET API](get-api.png)
+![GET API](images/get-api.png)
 
 ---
 
 ## Swagger - POST API
 
-![POST API](post-api.png)
+![POST API](images/post-api.png)
 
 ---
 
 ## Swagger - PUT API
 
-![PUT API](put-api.png)
+![PUT API](images/put-api.png)
 
 ---
 
 ## Swagger - DELETE API
 
-![DELETE API](delete-api.png)
+![DELETE API](images/delete-api.png)
 
 ---
 
